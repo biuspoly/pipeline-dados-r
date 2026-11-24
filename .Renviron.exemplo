@@ -1,0 +1,5 @@
+# Copie para .Renviron (não versionado) e preencha. Só os NOMES ficam aqui.
+# Lidos por obter_credencial() em R/funcoes_pipeline.R.
+
+# Token da API FIPE (etapa opcional atualiza_fipe.R)
+FIPE_TOKEN=

@@ -1,0 +1,13 @@
+# Saídas geradas pela pipeline (recriadas ao rodar)
+dados/bruto/
+dados/apps/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+
+# Credenciais locais
+.Renviron
+.env
